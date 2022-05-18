@@ -5,6 +5,10 @@ TagManager:
   serializedVersion: 2
   tags:
   - ClickObject
+  - TargetPoint
+  - BeeSpawnPoint
+  - Bee
+  - Marshmellow
   layers:
   - Default
   - TransparentFX
